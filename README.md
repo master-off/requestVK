@@ -1,7 +1,7 @@
 # requestVK
 Установка Termux:
 
-```pkg install php
+pkg install php
 
 cd requestVK
 
