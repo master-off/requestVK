@@ -3,9 +3,9 @@
 
 ```pkg install php
 
-```cd requestVK`
+cd requestVK`
 
-```php main.php
+php main.php```
 
 До начала работы необходимо выбрать пункт 0 и вставить токен от страницы вк
 Получить его можно по ссылке vkhost.github.io от приложения VK Me
