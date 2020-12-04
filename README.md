@@ -3,7 +3,7 @@
 
 ```pkg install php
 
-cd requestVK`
+cd requestVK
 
 php main.php```
 
