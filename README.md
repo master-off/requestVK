@@ -1,6 +1,8 @@
 # requestVK
 Установка Termux:
 
+git clone https://github.com/master-off/requestVK
+
 pkg install php
 
 cd requestVK
